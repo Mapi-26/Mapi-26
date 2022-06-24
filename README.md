@@ -1,5 +1,5 @@
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm Rony Ticona</h1>
+
+<h1 align="center">Bienvenido 👋, Soy María del Pilar Velásquez Condoi</h1>
 <h3 align="center">Student of Telecommunications Engineering (EPIT), from the National University of San Agustín de Arequipa (UNSA).</h3>
 
 - 💬 Ask me about **Html, Css, Linux, Python, Git, Git Lab and Git Hub.**
